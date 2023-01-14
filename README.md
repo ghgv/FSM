@@ -1,2 +1,2 @@
 # FSM
-Excerising FSM using Mealy
+Exercising FSM using Mealy
